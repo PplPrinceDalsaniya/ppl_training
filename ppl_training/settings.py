@@ -25,7 +25,7 @@ SECRET_KEY = '1lbf_ynyh9+4*t1&_7a-swy*f=70y75mx%gb=a230$^_0xg&iw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ppl_training.herokuapp.com']
+ALLOWED_HOSTS = ['ppl-training.herokuapp.com']
 
 
 # Application definition
